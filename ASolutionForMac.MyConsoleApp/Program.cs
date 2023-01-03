@@ -8,6 +8,7 @@ namespace ASolutionForMac.MyConsoleApp
         {
             MyServices aService = new MyServices();
             aService.PrintHelloWorld();
+            aService.PrintMyName("Charalampos");
         }
     }
 }
