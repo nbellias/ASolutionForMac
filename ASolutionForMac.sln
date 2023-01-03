@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASolutionForMac.MyConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASolutionForMac.MyClassLibrary", "ASolutionForMac.MyClassLibrary\ASolutionForMac.MyClassLibrary.csproj", "{2E259498-2BA1-40FA-A050-D3E2365A9571}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASolutionForMac.MyWebApi", "ASolutionForMac.MyWebApi\ASolutionForMac.MyWebApi.csproj", "{9C251F65-4EAC-4EBD-8721-24028F951C6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2E259498-2BA1-40FA-A050-D3E2365A9571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E259498-2BA1-40FA-A050-D3E2365A9571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E259498-2BA1-40FA-A050-D3E2365A9571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C251F65-4EAC-4EBD-8721-24028F951C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C251F65-4EAC-4EBD-8721-24028F951C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C251F65-4EAC-4EBD-8721-24028F951C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C251F65-4EAC-4EBD-8721-24028F951C6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
